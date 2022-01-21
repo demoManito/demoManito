@@ -9,10 +9,11 @@
 
 
 ## github's overview
- <a href="https://github.com/demoManito" style:"flex-direction:column;flex-wrap:nowrap;">
+ <div style:"flex-direction:column;flex-wrap:nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn" height="225"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn" height="225"/>
-</a>
+</div>
+
 <details>
   <summary>
     English
