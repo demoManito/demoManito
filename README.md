@@ -9,9 +9,9 @@
 
 
 ## github's overview
- <div style="box">
-  <img src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
+ <div>
+  <img  height="225" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
+  <img  height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
 </div>
 
 <details>
