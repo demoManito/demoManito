@@ -10,8 +10,8 @@
 
 ## github's overview
  <div>
-  <img  height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
-  <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
 </div>
 
 <details>
@@ -19,10 +19,10 @@
     English
   </summary>
   <div>
-    <a href="https://github.com/demoManito">
-      <img src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito"/>
-    </a>
+    <div>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito"/>
+    </div>
   <div>
 </details>
     
