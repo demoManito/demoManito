@@ -32,12 +32,12 @@
   <th colspan="3" align="left">工具</th>
   <tr>
     <td><a href="https://github.com/demoManito/gin-handler">gin-handle</a></td>
-    <td>gin-handler govern solution</td>
+    <td>handler 治理解决方案 (基于gin)</td>
     <td align="center">Go</td>
   </tr>
   <tr>
     <td><a href="https://github.com/demoManito/goloader">goloader</a></td>
-    <td>based on the ioc container dependenc injection</td>
+    <td>go 版本的依赖注入</td>
     <td align="center">Go</td>
   </tr>
   <tr>
