@@ -4,7 +4,7 @@
 
 <a href="https://github.com/demoManito">
   <img src="https://github-readme-stats.vercel.app/api?username=demoManito&show_icons=true&hide_border=true&theme=dracula&locale=cn" alt="logo" height="225"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&layout=compact" height="225"/>
 </a>
 
 
