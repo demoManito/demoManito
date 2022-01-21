@@ -46,14 +46,3 @@
     <td align="center">Lua</td>
   </tr>
 </table>
-   
-   
-<style type="text/css">
-  .box {
-   flex-direction:column;
-   flex-wrap:nowrap;
-   justify-content:flex-start;
-   align-items:stretch;
-  }
-</style>
- 
