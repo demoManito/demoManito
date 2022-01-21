@@ -11,7 +11,7 @@
 ## github's overview
 <a href="https://github.com/demoManito">
   <img src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn" height="225"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito" height="225"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn" height="225"/>
 </a>
 
 
