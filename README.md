@@ -9,7 +9,7 @@
 
 
 ## github's overview
- <div style:"flex-direction:column;flex-wrap:nowrap;justify-content:flex-start;align-items:stretch;">
+ <div style="box">
   <img src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
 </div>
@@ -47,4 +47,13 @@
   </tr>
 </table>
    
+   
+<style type="text/css">
+  .box {
+   flex-direction:column;
+   flex-wrap:nowrap;
+   justify-content:flex-start;
+   align-items:stretch;
+  }
+</style>
  
