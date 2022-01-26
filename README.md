@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/demoManito/goloader">goloader</a></td>
-    <td>go 版本的依赖注入</td>
+    <td>go 版本的依赖注入（接入项目参考：https://github.com/demoManito/wallet）</td>
     <td align="center">Go</td>
   </tr>
   <tr>
