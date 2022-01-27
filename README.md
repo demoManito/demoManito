@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/demoManito/gin-handler">gin-handle</a></td>
-    <td>handler 治理解决方案 (基于gin)</td>
+    <td>handler 治理解决方案 (基于 gin)</td>
     <td align="center">Go</td>
   </tr>
   <tr>
