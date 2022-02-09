@@ -1,5 +1,5 @@
 ## jesse personal home page
-<img src="https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg" /> [![Travis](https://img.shields.io/badge/language-Go-red.svg)]()
+<img src="https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg" /> [![Travis](https://img.shields.io/badge/language-Go-green.svg)]()
 
 - 👋 红红火火
 - 👀 哈哈哈哈
