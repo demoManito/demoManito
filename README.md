@@ -36,15 +36,15 @@
     <td align="center">Go</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/demoManito/gin-handler">gin-handle</a></td>
-    <td>handler 治理解决方案 (基于 gin)</td>
-    <td align="center">Go</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/demoManito/goloader">goloader</a></td>
     <td>go 版本的依赖注入（项目参考：https://github.com/demoManito/wallet）</td>
     <td align="center">Go</td>
   </tr>
+<!--   <tr>
+    <td><a href="https://github.com/demoManito/gin-handler">gin-handle</a></td>
+    <td>handler 治理解决方案 (基于 gin)</td>
+    <td align="center">Go</td>
+  </tr> -->
   <tr>
     <td><a href="https://github.com/demoManito/hammerspoon-extend">hammerspoon-extend</a></td>
     <td>hammerspoon 扩展</td>
