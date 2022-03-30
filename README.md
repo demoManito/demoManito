@@ -32,7 +32,7 @@
   <th colspan="3" align="left">工具</th>
  <tr>
     <td><a href="https://github.com/demoManito/helper">helper</a></td>
-    <td>workflow 扩展</td>
+    <td>alfred workflow 扩展</td>
     <td align="center">Go</td>
   </tr>
   <tr>
