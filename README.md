@@ -31,7 +31,7 @@
 <table>
  <th colspan="3" align="left">工具</th>
  <tr>
-    <td><a href="https://github.com/demoManito/go-tools">go-tools (功能尚在开发中...)</a></td>
+    <td><a href="https://github.com/demoManito/go-tools">go-tools (功能尚在完善中...)</a></td>
     <td>golang 开发所需工具（目前支持功能如：异步消息、数据同步、位运算等）</td>
     <td align="center">Go</td>
  </tr>
