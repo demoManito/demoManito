@@ -1,11 +1,7 @@
 ## lucky every day
 <img src="https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg" /> [![Travis](https://img.shields.io/badge/bestlanguage-golang-green)]()
 
-- 👋 红红火火
-- 👀 哈哈哈哈
-- 🌱 恍恍惚惚
-- 💞️ 哈哈哈哈
-- 📫 含含糊糊
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="20px">
 
 
 ## github's overview
