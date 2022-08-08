@@ -1,4 +1,5 @@
 ## Happy Fart～ Nice
+<a href="https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9/project/7865ba15-b6fe-426f-82d1-81d15ee42466"><img src="https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9/project/7865ba15-b6fe-426f-82d1-81d15ee42466.svg" alt="wakatime"></a>
 <img src="https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg" /> [![Travis](https://img.shields.io/badge/bestlanguage-golang-green)]()
 
 <img src="https://media4.giphy.com/media/jUKclR7NLwnQXUdKFZ/giphy.gif" width="300px">
