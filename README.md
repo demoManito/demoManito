@@ -24,7 +24,7 @@
 </details>
 
 <div align="center">
-  < img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=8"/>
 </div>
 <br/>
 
