@@ -17,16 +17,15 @@
   </summary>
   <div>
     <div>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&theme=onedark"/>
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito"/>
     </div>
   <div>
 </details>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7"/>
 </div>
-<br/>
 
 ## represent item
 <table>
