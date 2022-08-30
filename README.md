@@ -6,11 +6,13 @@
 
 
 ## github's overview
- <div>
+<img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7&theme=onedark"/>
+<div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
 </div>
 
+<!--
 <details>
   <summary>
     English
@@ -22,8 +24,9 @@
     </div>
   <div>
 </details>
+-->
 
-<img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7&theme=onedark"/>
+
 
 ## represent item
 <table>
