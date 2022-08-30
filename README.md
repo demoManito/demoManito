@@ -23,9 +23,7 @@
   <div>
 </details>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7"/>
 
 ## represent item
 <table>
