@@ -11,7 +11,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
 </div>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=demoManito&column=7&theme=dracula"/>
 
 <!--
 <details>
