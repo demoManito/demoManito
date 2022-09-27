@@ -2,7 +2,10 @@
 [![wakatime](https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg)]()
 [![Travis](https://img.shields.io/badge/bestlanguage-golang-green)]()
 
+<!--
 <img src="https://media4.giphy.com/media/jUKclR7NLwnQXUdKFZ/giphy.gif" width="300px">
+-->
+<iframe src="https://giphy.com/embed/DYH297XiCS2Ck" width="480" height="372" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/holy-shit-best-day-ever-marriage-equality-and-alabama-shakes-DYH297XiCS2Ck">via GIPHY</a></p>
 
 
 ## github's overview
