@@ -5,8 +5,7 @@
 <!--
 <img src="https://media4.giphy.com/media/jUKclR7NLwnQXUdKFZ/giphy.gif" width="300px">
 -->
-<iframe src="https://giphy.com/embed/DYH297XiCS2Ck" width="480" height="372" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/holy-shit-best-day-ever-marriage-equality-and-alabama-shakes-DYH297XiCS2Ck">via GIPHY</a></p>
-
+<img src="https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif" width="300px">
 
 ## github's overview
 <div>
