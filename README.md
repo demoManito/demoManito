@@ -1,7 +1,4 @@
 ## Come on, don't go
-[![wakatime](https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg)]()
-[![Travis](https://img.shields.io/badge/bestlanguage-golang-green)]()
-
 <!--
 <img src="https://media4.giphy.com/media/jUKclR7NLwnQXUdKFZ/giphy.gif" width="300px">
 <img src="https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif" width="300px">
@@ -10,6 +7,8 @@
 
 
 ## github's overview
+[![wakatime](https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg)]()
+[![Travis](https://img.shields.io/badge/bestlanguage-golang-green)]()
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=demoManito&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&locale=cn"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoManito&locale=cn"/>
