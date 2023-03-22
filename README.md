@@ -1,4 +1,4 @@
-## Not waste every day
+## Don't waste every day
 <!--
 // Let the past go with the wind
 <img src="https://media4.giphy.com/media/jUKclR7NLwnQXUdKFZ/giphy.gif" width="300px">
