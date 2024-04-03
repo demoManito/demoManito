@@ -11,7 +11,7 @@ https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdjNDkzZWIyYjFhOWMxMTYyNTg0NW
 ## github's overview
 [![wakatime](https://wakatime.com/badge/user/2b8721ce-129f-413a-8c60-69d3022357a9.svg)]()
 [![Travis](https://img.shields.io/badge/bestlanguage-golang-green)]()
-<a href="https://demomanito.github.io"> ![Static Badge](https://img.shields.io/badge/homepage-demomanito.github.io-ef4136?link=https%3A%2F%2Fdemomanito.github.io) </a>
+<a href="https://demomanito.github.io" target="_blank"> ![Static Badge](https://img.shields.io/badge/homepage-demomanito.github.io-ef4136?link=https%3A%2F%2Fdemomanito.github.io) </a>
 
 <!--
 <div>
